@@ -1,0 +1,11 @@
+seed: 1
+
+log_level: info
+log_file: default.log
+
+hidden_size: 16
+dropout_rate: 0.5
+
+iterations: 200
+lr: 0.01
+weight_decay: 0.0005
